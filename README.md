@@ -1,6 +1,6 @@
 ---Booting Up UI Library
 	local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
-	local Window = OrionLib:MakeWindow({Name = "Kailey Hub", HidePremium = false, IntroEnabled = false, SaveConfig = true, ConfigFolder = "OrionTest"})
+	local Window = OrionLib:MakeWindow({Name = "Raze Hub | Made by Kailey ", HidePremium = false, IntroEnabled = false, SaveConfig = true, ConfigFolder = "OrionTest"})
 	---Tab
 	local UniversalTab = Window:MakeTab({
 		Name = "Universal",
